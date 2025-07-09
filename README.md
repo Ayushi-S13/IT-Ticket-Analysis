@@ -2,6 +2,11 @@
 
 This Excel-based analysis explores IT support ticket trends to identify resolution delays, workload patterns, and frequently recurring issues across departments. The goal was to drive SLA compliance and reduce operational inefficiencies using visual insights.
 
+<p align="center">
+  <img src="images/it_ticket_dashboard_screenshot.png" alt="IT Ticket Dashboard"/>
+</p>
+
+
 ---
 
 ## 🎯 Objective
