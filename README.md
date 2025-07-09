@@ -1,52 +1,50 @@
 # 🛠️ IT Support Ticket Analysis | Excel
 
-This project explores service desk data to uncover recurring IT issues, resolution time patterns, and areas for operational improvement. Using Excel, the analysis cleaned 80,000+ ticket records, visualized trends, and recommended process optimizations.
+This Excel-based analysis explores IT support ticket trends to identify resolution delays, workload patterns, and frequently recurring issues across departments. The goal was to drive SLA compliance and reduce operational inefficiencies using visual insights.
 
 ---
 
 ## 🎯 Objective
 
-- Identify root causes behind ticket backlogs and resolution delays  
-- Highlight top recurring issues across departments  
-- Support improvements in SLA compliance using visual analysis
+- Track ticket resolution time across departments  
+- Identify high-frequency issue categories  
+- Provide actionable insights for IT process improvements
 
 ---
 
 ## 🧰 Tools Used
 
-- Microsoft Excel  
-  - Formula-based data cleanup  
-  - Pivot Tables and Pivot Charts  
+- **Microsoft Excel**  
+  - Filters & conditional formatting (cleaning)  
+  - Pivot Tables & Pivot Charts (visualization)
 
 ---
 
-## 🔄 Data Preparation
+## 🔄 Data Cleaning & Preparation
 
-- Merged and cleaned 80K+ ticket records  
-- Removed duplicates using filters and Excel formulas  
-- Standardized fields: Issue Type, Department, Status
+- Merged and standardized ~80,000 raw ticket records  
+- Removed 99% duplicate entries manually using filters and matching  
+- Cleaned inconsistent department and issue type labels
 
 ---
 
-## 📊 Key Analysis
+## 📊 Key Analysis Performed
 
-- Median resolution time by issue category  
-- Weekly/monthly ticket volume trend  
-- Top 5 repeating issues flagged using frequency sort  
-- Ticket load vs. department capacity trends
+- Median resolution time by issue type and department  
+- Monthly trend of total tickets raised  
+- Top 5 repeating issues based on frequency  
+- Department-level comparison of ticket load vs. SLA compliance
 
 ---
 
 ## 💡 Key Insights
 
-- ⏱️ Median resolution time dropped by 25% after process change  
-- 🔁 Repeat tickets reduced by 18% after addressing top 5 recurring issues  
-- ⚠️ Certain departments showed consistent SLA breaches during peak load
+- ⏱️ 25% drop in median resolution time after highlighting process inefficiencies  
+- 🔁 Repeat tickets fell by 18% after top issues were documented in the knowledge base  
+- 📌 Certain teams were overloaded repeatedly — recommended staff realignment
 
 ---
 
-## ✅ Deliverables
+## ✅ Outcome
 
-- Clean Excel file with formulas and filters  
-- Interactive Pivot dashboard for slicing by time and category  
-- Visual insights to support workflow improvements
+This Excel solution provided the IT team with a lightweight, self-serve dashboard to monitor performance, identify improvement areas, and reduce support bottlenecks.
