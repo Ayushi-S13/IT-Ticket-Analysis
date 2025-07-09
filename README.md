@@ -23,4 +23,30 @@ This project explores service desk data to uncover recurring IT issues, resoluti
 ## 🔄 Data Preparation
 
 - Merged and cleaned 80K+ ticket records  
-- Removed duplicates using
+- Removed duplicates using filters and Excel formulas  
+- Standardized fields: Issue Type, Department, Status
+
+---
+
+## 📊 Key Analysis
+
+- Median resolution time by issue category  
+- Weekly/monthly ticket volume trend  
+- Top 5 repeating issues flagged using frequency sort  
+- Ticket load vs. department capacity trends
+
+---
+
+## 💡 Key Insights
+
+- ⏱️ Median resolution time dropped by 25% after process change  
+- 🔁 Repeat tickets reduced by 18% after addressing top 5 recurring issues  
+- ⚠️ Certain departments showed consistent SLA breaches during peak load
+
+---
+
+## ✅ Deliverables
+
+- Clean Excel file with formulas and filters  
+- Interactive Pivot dashboard for slicing by time and category  
+- Visual insights to support workflow improvements
